@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="watch_dialog_title_margin">12px</dimen>
+    <dimen name="watch_dialog_module_margin_top">48px</dimen>
+    <dimen name="watch_dialog_element_margin_top">15px</dimen>
+    <dimen name="title_size">24px</dimen>
+    <dimen name="text_size">24px</dimen>
+</resources>
